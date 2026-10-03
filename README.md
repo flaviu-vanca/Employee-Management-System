@@ -1,7 +1,7 @@
 # Employee-BST
 
 ## Project Overview:
-The Employee Binary Search Tree (BST) project implements a binary search tree data structure tailored for managing employee records. It includes functionalities to insert, search, and delete employee records efficiently using the BST operations. The program provides a command-line interface (CLI) for users to interact with the BST and perform operations such as inserting new records, searching for records by employee ID, deleting records, and printing all employee records.
+The Employee Binary Search Tree (BST) project implements a binary search tree data structure tailored for managing employee records. It includes functionalities to insert, search, and delete employee [...]
 
 ## Implementation Details:
 ### EmployeeBST Class:
@@ -51,13 +51,13 @@ Ensure that Java Development Kit (JDK) is installed on your system.
 | 4  | Follow the on-screen prompts to insert, search, delete, or print employee records.|
 
 ## Support and Assistance:
-If you encounter any issues or have questions about the project, feel free to open an issue on GitHub or reach out to the project maintainer via email x22195092@student.ncirl.ie.
+If you encounter problems or have questions, please open an issue on GitHub for assistance.
 
 ## Project Maintenance and Contributors:
-This project is maintained and contributed to by [Flaviu Vanca](https://github.com/thaparazite). Contributions are welcome via pull requests, and all contributors are encouraged to follow the project's contribution guidelines outlined in the CONTRIBUTING.md file.
+This project is maintained and contributed to by [Flaviu Vanca](https://github.com/thaparazite). Contributions are welcome via pull requests, and all contributors are encouraged to follow the project'[...] 
 
 ## License:
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Disclaimer:
-This project is for educational and informational purposes only. It is not intended for commercial use or deployment in critical environments without proper validation and testing. Use at your own risk.
+This project is for educational and informational purposes only. It is not intended for commercial use or deployment in critical environments without proper validation and testing. Use at your own ris[...]
